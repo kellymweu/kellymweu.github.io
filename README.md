@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kellymweu
 - 👀 I’m interested in python programming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anything crypto
+- 💞️ Doing solo projects and making commits
 - 📫 How to reach me. here
 
 <!---
