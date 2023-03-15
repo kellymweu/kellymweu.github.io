@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kellymweu
-- 👀 I’m interested in python programming
-- 🌱 I’m currently learning python
+- 👀 I’m interested in full stack web development
+- 🌱 I’m currently learning python (django), css(tailwindcss), javascript, and html
 - 💞️ Doing solo projects and making commits
 - 📫 How to reach me. here
 
