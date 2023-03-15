@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kellymweu
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning python (django), css(tailwindcss), javascript, and html
-- 💞️ Doing solo projects and making commits
-- 📫 How to reach me. here
+- 💞️ Learning to program efficiently without compromising on security
+- 📫 How to reach me. https://www.linkedin.com/in/kelly-mweu-230604200/
 
 <!---
 kellymweu/kellymweu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
