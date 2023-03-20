@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning full stack web development
 - 🌱 MERN (Mongodb, Express.js, React.js and Node.js)
 - 💞️ Currently loving ML and AI data manipulation using python (Django framework)
-- 📫 How to reach me. mweukelly@gmail.com
+- 📫 How to reach me. mweukelly@gmail.com || https://www.linkedin.com/in/kelly-mweu-230604200/
 
 <!---
 kellymweu/kellymweu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
