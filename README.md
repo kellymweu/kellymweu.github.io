@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kellymweu
 - 👀 I’m interested in learning full stack web development
-- 🌱 MERN (Mongodb & mySQL, Express.js, React.js and Node.js)
+- 🌱 Reactjs || SQL || Nextjs || tailwindcss || Django
 - 💞️ Currently loving ML and AI data manipulation using python (Django framework)
 - 📫 How to reach me. mweukelly@gmail.com || https://www.linkedin.com/in/kelly-mweu-230604200/
 
